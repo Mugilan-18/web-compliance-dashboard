@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+playwright
+requests
+opencv-python
+pytesseract
